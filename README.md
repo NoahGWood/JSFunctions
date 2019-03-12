@@ -1,0 +1,2 @@
+# JSFunctions
+Useful javascript functions
